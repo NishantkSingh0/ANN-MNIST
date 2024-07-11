@@ -1,4 +1,4 @@
-# Feed-Forward Neural Network (FFN) for MNIST & Fashion MNIST classification.
+# Subclassing Feed-Forward Neural Network (FFN) for MNIST & Fashion MNIST classification.
 
 # Overview
 This repository contains a TensorFlow/Keras implementation of a Feed-Forward Neural Network (FFN) trained to classify handwritten digits from the MNIST dataset. The model achieves an accuracy of 99.55% on the test set.
