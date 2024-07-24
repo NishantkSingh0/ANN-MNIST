@@ -6,7 +6,8 @@ This repository contains a TensorFlow/Keras implementation of a Feed-Forward Neu
 # Model Architecture
 The FFN model is defined using the subclassing method in TensorFlow/Keras. Here's a brief overview of the architecture:
 
-![Screenshot (90)](https://github.com/NishantkSingh0/ANN-MNIST/assets/166206623/a2f85b27-78ba-4889-9b45-fd6e062e90e0)
+![Screenshot (119)](https://github.com/user-attachments/assets/9f20bf5d-bc32-4f52-a72b-7e1d08bb50f5)
+
 
 # Custom Training
 
