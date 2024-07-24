@@ -8,10 +8,10 @@ The FFN model is defined using the subclassing method in TensorFlow/Keras. Here'
 
 ![Screenshot (90)](https://github.com/NishantkSingh0/ANN-MNIST/assets/166206623/a2f85b27-78ba-4889-9b45-fd6e062e90e0)
 
-# Training
-Both model is trained using the Adam optimizer with sparse categorical cross-entropy loss.
+# Custom Training
 
-![Screenshot (93)](https://github.com/NishantkSingh0/ANN-MNIST/assets/166206623/25748c47-8c42-4ce8-ab0b-187f18dec1b5)
+![Screenshot (117)](https://github.com/user-attachments/assets/ad2698a8-3a67-492a-8365-549289f4e7f3)
+![Screenshot (118)](https://github.com/user-attachments/assets/4fc12576-c6a3-4381-8c3d-20ae64a91455)
 
 
 # Results
