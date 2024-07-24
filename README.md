@@ -18,4 +18,4 @@ The FFN model is defined using the subclassing method in TensorFlow/Keras. Here'
 # Results
 After training for 10 epochs, the model achieves an accuracy of 98.25% on MNIST and 88.93% on Fashion MNIST test data.
 
-![Screenshot (94)](https://github.com/NishantkSingh0/ANN-MNIST/assets/166206623/f943da41-d366-432a-a8b1-4c76f5164219)
+![Screenshot (120)](https://github.com/user-attachments/assets/9dad4309-c499-4d72-9dfb-976aec6ada5a)
